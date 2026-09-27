@@ -18,3 +18,6 @@ https://maven.apache.org/xsd/maven-4.0.0.xsd">
     </properties>
 
 </project>
+
+void main() {
+}
